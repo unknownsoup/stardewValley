@@ -1,0 +1,14 @@
+Crop_Name,Season,Shop_Cost,Base_Price,Gold_Price,Avg_Yield,Jar_able,Jarred_Price,Growth_Time,Regrowth,Regrowth_Time
+Parsnip,Spring,20.0,35,52,1.0,True,120.0,4,False,
+Green Bean,Spring,60.0,40,60,1.0,True,130.0,10,True,3.0
+Cauliflower,Spring,80.0,175,262,1.0,True,400.0,12,False,
+Potato,Spring,50.0,80,120,1.25,True,210.0,6,False,
+Tulip,Spring,20.0,30,45,1.0,False,,6,False,
+Kale,Spring,70.0,110,165,1.0,True,280.0,6,False,
+Blue Jazz,Spring,30.0,50,75,1.0,False,,7,False,
+Garlic,Spring,40.0,60,90,1.0,True,170.0,4,False,
+Rhubarb,Spring,100.0,220,330,1.0,True,550.0,13,False,
+Strawberry,Spring,100.0,120,180,1.0,True,290.0,8,True,4.0
+Coffee Bean,Spring,2500.0,15,22,4.0,False,,10,True,2.0
+Unmilled Rice,Spring,40.0,30,45,1.0,False,,6,False,
+Carrot,Spring,,35,52,1.0,False,,3,False,

@@ -1,0 +1,14 @@
+Crop_Name,Season,Shop_Cost,Base_Price,Gold_Price,Avg_Yield,Jar_able,Jarred_Price,Growth_Time,Regrowth,Regrowth_Time
+Amaranth,Fall,70,150,225,1,True,350.0,7,False,
+Artichoke,Fall,30,160,240,1,True,400.0,8,False,
+Beet,Fall,20,100,150,1,True,250.0,6,False,
+Bok Choy,Fall,50,80,120,1,True,210.0,4,False,
+Corn,Fall,150,50,75,1,True,150.0,14,True,4.0
+Cranberries,Fall,240,75,112,2,True,200.0,7,True,5.0
+Eggplant,Fall,20,60,90,1,True,170.0,5,True,5.0
+Fairy Rose,Fall,200,290,435,1,False,,12,False,
+Grape,Fall,60,80,120,1,True,210.0,10,True,3.0
+Pumpkin,Fall,100,320,480,1,True,690.0,13,False,
+Sunflower,Fall,200,80,120,1,True,260.0,8,False,
+Sweet Gem Berry,Fall,1000,3000,4500,1,False,,24,False,
+Yam,Fall,60,160,240,1,True,370.0,10,False,

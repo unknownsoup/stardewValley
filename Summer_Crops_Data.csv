@@ -1,0 +1,14 @@
+Crop_Name,Season,Shop_Cost,Base_Price,Gold_Price,Avg_Yield,Jar_able,Jarred_Price,Growth_Time,Regrowth,Regrowth_Time
+Blueberry,Summer,80,50,75,3,True,150.0,13,True,4.0
+Corn,Summer,150,50,75,1,True,150.0,14,True,4.0
+Hops,Summer,60,25,37,1,False,,11,True,1.0
+Hot Pepper,Summer,40,40,60,1,True,130.0,5,True,3.0
+Melon,Summer,80,250,375,1,True,550.0,12,False,
+Poppy,Summer,100,140,210,1,False,,7,False,
+Radish,Summer,40,90,135,1,True,210.0,6,False,
+Red Cabbage,Summer,100,260,390,1,True,570.0,9,False,
+Starfruit,Summer,400,750,1125,1,True,1550.0,13,False,
+Summer Spangle,Summer,50,90,135,1,False,,8,False,
+Sunflower,Summer,200,80,120,1,True,260.0,8,False,
+Tomato,Summer,50,60,90,1,True,150.0,11,True,4.0
+Wheat,Summer,10,25,37,1,True,100.0,4,False,
